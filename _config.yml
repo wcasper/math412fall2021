@@ -1,9 +1,9 @@
-title: Math 407 Spring 2021
+title: Math 412 Fall 2021
 author:
   name: William Casper
   email: wcasper@fullerton.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Course webpage for a semester-long course in abstract algebra.
+  Course webpage for a semester-long course in complex analysis.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -51,7 +51,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
- - extras/syllabus.md
+ - syllabus.md
  - topics-list.md
  - homework-list.md
  - exams-list.md
