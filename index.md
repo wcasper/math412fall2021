@@ -12,7 +12,7 @@ title: Math 412 Complex Analysis
 <p align="center"><img src="fig/gamma.jpeg"/></p>
 
 
-**Instructor:** Dr. W. Riley Casper [About your instructor](instructor)
+**Instructor:** Dr. W. Riley Casper [(About your instructor)](instructor)
 
 **Email:** wcasper@fullerton.edu
 
