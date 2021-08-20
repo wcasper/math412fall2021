@@ -42,8 +42,6 @@ The textbook for this course is:
 
 1. *Complex Analysis* by Theodore W. Gamelin (Springer series Undergraduate Texts in Mathematics)
 
-If you instead have a copy of the earlier 7th edition, that should also work.
-
 ### Required technology
 For this course, you will need to have access to technology that will allow you to join Zoom for office hours and to upload assignments on Canvas
 
