@@ -28,7 +28,7 @@ title: Math 412 Complex Analysis
 
 **First steps**
 
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites for remote office hours:
+Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3210797/modules">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites for remote office hours:
 * A reliable internet connection
 * Zoom
 * A webcam
