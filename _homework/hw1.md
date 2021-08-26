@@ -21,16 +21,16 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 **Problem 2:** For each of the following sets of complex numbers, describe the shape of the set and sketch the set in the complex plane.
 
-* (A) $$\{z: |z-1-i| = 1\}$$
-* (B) $$\{z: 1 < |2z-6| < 2\}$$
+* (A) $$\{z: \lvert z-1-i\rvert = 1\}$$
+* (B) $$\{z: 1 < \lvert 2z-6\rvert < 2\}$$
 * (C) $$\{z: \text{Re}(iz + 2) > 0\}$$
-* (D) $$\{z: |z-1| < |z|\}$$
+* (D) $$\{z: \lvert z-1\rvert < \lvert z\rvert\}$$
 
 **Problem 3:**  Let $$\rho: S^2\rightarrow\mathbb C$$ be stereographic projection and let $$T: S^2\rightarrow S^2$$ be the rotation of the sphere by $$180\deg$$ around the $$x-$$axis.  Find an explicit expression for the M\"obius transformation
 
 $$\chi(z) = \rho(T(\rho^{-1}(z))).$$
 
-**Problem 4:**  The unit disk in the complex plane is the set $$\mathbb D = \{z: |z| < 1\}$$.  For each of the following functions, sketch the image of $$\mathbb D$$ under the function.
+**Problem 4:**  The unit disk in the complex plane is the set $$\mathbb D = \{z: \lvert z\rvert < 1\}$$.  For each of the following functions, sketch the image of $$\mathbb D$$ under the function.
 
 * (A) $$f(z) = z^2$$ 
 * (B) $$f(z) = 1/z$$
