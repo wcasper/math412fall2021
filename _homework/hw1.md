@@ -30,7 +30,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 $$\chi(z) = \rho(T(\rho^{-1}(z))).$$
 
-**Problem 4:**  The unit disk in the complex plane is the set $$\mathbb D = \{z: \lvert z\rvert < 1\}$$.  For each of the following functions, sketch the image of $$\mathbb D$$ under the function.
+**Problem 4:**  The unit disk in the complex plane is the set $$\mathbb D = \{z: \lvert z\rvert < 1\}$$.  For each of the following functions, sketch the image of $$\mathbb D$$ in the extended complex plane $$\mathbb C^*$$ under the function.
 
 * (A) $$f(z) = z^2$$ 
 * (B) $$f(z) = 1/z$$
