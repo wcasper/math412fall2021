@@ -16,7 +16,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 **Problem 1:** Let $$n>1$$ be an integer.  Prove the following
 
 * (A) $$\prod_{k=0}^{n-1} (z-e^{2\pi i k/n}) = z^n-1$$
-* (B) $$\prod_{k=0}^{n-1} e^{2\pi i k/n} = (-1)^n$$
+* (B) $$\prod_{k=0}^{n-1} e^{2\pi i k/n} = (-1)^{n+1}$$
 * (C) $$\sum_{k=0}^{n-1} e^{2\pi i k/n} = 0$$
 
 **Problem 2:** For each of the following sets of complex numbers, describe the shape of the set and sketch the set in the complex plane.
