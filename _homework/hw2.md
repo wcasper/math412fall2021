@@ -15,7 +15,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 **Problem 1:** Determine the value or possible values of each of the following
 
-* (A) $$e^{37pi i}$$
+* (A) $$e^{37\pi i}$$
 * (B) $$(1+i)^i$$
 * (C) $$i^{i^i}$$
 
