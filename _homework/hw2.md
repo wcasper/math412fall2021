@@ -50,7 +50,7 @@ where here the equality is saying that both sets have the same elements.
 Prove the following limits using the formal definition of a limit.
 
 * (A) $$\lim_{n\rightarrow\infty}\frac{n}{n+1} = 1$$
-* (B) $$\lim_{n\rightarrow\infty}\frac{z^n}{n!} = 0$$ for all $$z\in\mathbb C$
+* (B) $$\lim_{n\rightarrow\infty}\frac{z^n}{n!} = 0$$ for all $$z\in\mathbb C$$
 
 **Problem 6:**
 For which values of $$\alpha\in\mathbb C$$ does the principal power $$z^\alpha$$ of $$z$$ have a limit as $$z\rightarrow 0$$?
