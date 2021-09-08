@@ -30,7 +30,7 @@ $$
 
 **Problem 3:** 
 
-Show that there exists a \emph{continuous} complex-valued function $f(z)$ defined for all $\lvert z\rvert >1$ satisfying
+Show that there exists a \emph{continuous} complex-valued function $$f(z)$$ defined for all $$\lvert z\rvert >1$$ satisfying
 
 $$(f(z))^2 = z^2 + 1/z.$$
 
