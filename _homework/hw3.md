@@ -32,7 +32,7 @@ Let $$\Gamma$$ be the unit circle in the complex plane with counter-clockwise ro
 
 * (A) $$\oint_\Gamma z^m dz$$
 * (B) $$\oint_\Gamma \overline{z}^mdz$$
-* (C) $$\oint_\Gamma z^m|dz|$$
+* (C) $$\oint_\Gamma z^m\lvert dz\rvert$$
 
 **Problem 4:**  
 
