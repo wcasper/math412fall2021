@@ -25,14 +25,14 @@ $$\int_{-1}^1 |f(x)|^2dx \leq \pi\int_{0}^{2\pi}|f(e^{i\theta})|^2 d\theta = \pi
 **Problem 2:**
 Evaluate the following line integrals
 
-* (A) $$\oint_{|z|=4}e^{\cos(z)}dz$$
-* (B) $$\oint_{|z|=1}\frac{\cosh(z)}{z^3} dz$$
-* (C) $$\oint_{|z|=1}\frac{dz}{z^2(z^2-4)e^z}dz$$
-* (D) $$\oint_{|z-1|=2}\frac{dz}{z(z^2-4)e^z}dz$$
+* (A) $$\oint_{\lvert z\rvert=4}e^{\cos(z)}dz$$
+* (B) $$\oint_{\lvert z\rvert=1}\frac{\cosh(z)}{z^3} dz$$
+* (C) $$\oint_{\lvert z\rvert=1}\frac{dz}{z^2(z^2-4)e^z}dz$$
+* (D) $$\oint_{\lvert z-1\vert=2}\frac{dz}{z(z^2-4)e^z}dz$$
 
 **Problem 3:**
 
-Use Cauchy's integral formula on the domain $$D_R = \{z\in\mathbb C: \text{Re}(z)>0,\ |z|< R\}$$ to show that
+Use Cauchy's integral formula on the domain $$D_R = \{z\in\mathbb C: \text{Re}(z)>0,\ \lvert z \rvert< R\}$$ to show that
 
 $$\int_{-\infty}^\infty \frac{\cos(x)}{1+x^2}dx = \frac{\pi}{e}.$$
 
