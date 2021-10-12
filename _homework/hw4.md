@@ -27,8 +27,8 @@ Evaluate the following line integrals
 
 * (A) $$\oint_{\lvert z\rvert=4}e^{\cos(z)}dz$$
 * (B) $$\oint_{\lvert z\rvert=1}\frac{\cosh(z)}{z^3} dz$$
-* (C) $$\oint_{\lvert z\rvert=1}\frac{dz}{z^2(z^2-4)e^z}dz$$
-* (D) $$\oint_{\lvert z-1\vert=2}\frac{dz}{z(z^2-4)e^z}dz$$
+* (C) $$\oint_{\lvert z\rvert=1}\frac{1}{z^2(z^2-4)e^z}dz$$
+* (D) $$\oint_{\lvert z-1\vert=2}\frac{1}{z(z^2-4)e^z}dz$$
 
 **Problem 3:**
 
