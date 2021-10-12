@@ -18,7 +18,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 Let $$f(z) = c_0 + c_1z + \dots + c_nz^n$$ be a polynomial.
 Prove the inequality
 
-$$\int_{-1}^1 |f(x)|^2dx \leq \pi\int_{0}^{2\pi}|f(e^{i\theta})|^2 d\theta = \pi\sum_{k=0}^n |c_k|^2.$$
+$$\int_{-1}^1 |f(x)|^2dx \leq \pi\int_{0}^{2\pi}|f(e^{i\theta})|^2 \frac{d\theta}{2\pi} = \pi\sum_{k=0}^n |c_k|^2.$$
 
 [Hint: first consider the case when the coefficients $$c_0,\dots,c_n$$ are real and apply Cauchy's theorem to the function $$f(z)^2$$ on both the top and bottom halves of the unit circle separately]
 
