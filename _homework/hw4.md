@@ -36,7 +36,7 @@ Use Cauchy's integral formula on the domain $$D_R = \{z\in\mathbb C: \text{Im}(z
 
 $$\int_{-\infty}^\infty \frac{\cos(x)}{1+x^2}dx = \frac{\pi}{e}.$$
 
-[Hint: consider integrating $$\int_{D_R} \frac{e^{ix}}{1+x^2}dx$$.]
+[Hint: consider integrating $$\oint_{\partial D_R} \frac{e^{ix}}{1+x^2}dx$$.]
 
 **Problem 4:**
 
