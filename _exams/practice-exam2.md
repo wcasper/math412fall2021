@@ -12,7 +12,7 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 **Problem 1:** 
 
 True or False.
-* (A) If $$f(z)$$ is entire and $$\lvertf(z)\rvert\geq 1$$ for all $$z\in\mathbb C$$ then $$f(z)$$ is constant
+* (A) If $$f(z)$$ is entire and $$\lvert f(z)\rvert\geq 1$$ for all $$z\in\mathbb C$$ then $$f(z)$$ is constant
 * (B) The limit of a sequence of analytic functions is analytic
 * (C) If $$f(z)$$ is analytic for all $$\lvert z\rvert <1.5$$ then the integral $$\oint_{\lvert z\rvert=1} f(z)dz = 0$$
 * (D) $$\lvert \sin(z)\vert\leq 1$$ for all $$z\in \mathbb C$$
@@ -23,7 +23,7 @@ Give an example of each of the following, or else explain why no example exists
 
 * (A) a series which converges, but which does not converge absolutely
 * (B) a power series $$\sum_{k=0}^\infty a_kz^k$$ which diverges for all $$z\neq 0$$
-* (C) a smooth, real-valued function on $$\mathbb R$$ which is not identically zero, but which satisfies $$f^{(k)}(0) = 0$$ for all $k\geq 0$$
+* (C) a smooth, real-valued function on $$\mathbb R$$ which is not identically zero, but which satisfies $$f^{(k)}(0) = 0$$ for all $$k\geq 0$$
 * (D) a nonzero entire function $$f(z)$$ satisfying $$f(0) = 0$$ and $$f(1/n)=0$$ for all $$n\geq 1$$
 
 **Problem 3:**
