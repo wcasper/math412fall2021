@@ -12,10 +12,10 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 **Problem 1:** 
 
 True or False.
-* (A) If $$f(z)$$ is entire and $$|f(z)|\geq 1$$ for all $$z\in\mathbb C$$ then $$f(z)$$ is constant
+* (A) If $$f(z)$$ is entire and $$\lvertf(z)\rvert\geq 1$$ for all $$z\in\mathbb C$$ then $$f(z)$$ is constant
 * (B) The limit of a sequence of analytic functions is analytic
-* (C) If $$f(z)$$ is analytic for all $$|z|<1.5$$ then the integral $$\oint_{|z|=1} f(z)dz = 0$$
-* (D) $$|\sin(z)|\leq 1$$ for all $$z\in \mathbb C$$
+* (C) If $$f(z)$$ is analytic for all $$\lvert z\rvert <1.5$$ then the integral $$\oint_{\lvert z\rvert=1} f(z)dz = 0$$
+* (D) $$\lvert \sin(z)\vert\leq 1$$ for all $$z\in \mathbb C$$
 * (E) If $$z_0,z_1\in\mathbb D$$ are two distinct points then $$\int_{\partial\mathbb D} \frac{1}{(z-z_0)(z-z_1)} dz = 0$$
 
 **Problem 2:** 
@@ -32,19 +32,19 @@ Prove that if a sequence of functions $$f_n(z)$$ converges to $$f(z)$$ uniformly
 
 **Problem 4:**
 
-Suppose that $$f(z)$$ is an entire function and that $$f(z)/z^n$$ is bounded for $$|z|>2021$$.  Prove that $$f(z)$ is a polynomial of degree at most $$n$$.
+Suppose that $$f(z)$$ is an entire function and that $$f(z)/z^n$$ is bounded for $$\lvert z\rvert >2021$$.  Prove that $$f(z)$ is a polynomial of degree at most $$n$$.
 
 **Problem 5:**
 
 Calculate the following values and carefully justify your work.  If you use any specific theorems, be sure to name them.
 
 * (A) $$\int_{\Gamma} xydy$$ where $$\Gamma$$ is the boundary of the square with vertices $$(0,0)$$, $$(0,1)$$, $$(1,0)$$, and $$(1,1)$$
-* (B) $$\oint_{|z|=1} \frac{1}{z^3}dz.$$
+* (B) $$\oint_{\lvert z\rvert =1} \frac{1}{z^3}dz.$$
 * (C) $$\int_{\Gamma} \cos(z)dz$$ where $$\Gamma$$ is the path from $$(-\pi,0)$$ to $$(\pi,0)$$ along the curve $$y=\sin(x)$$
-* (D) $$\oint_{|z-1-i| = 5/4} \frac{\Log(z)}{(z-1)^2}dz$$
+* (D) $$\oint_{\lvert z-1-i\rvert = 5/4} \frac{\Log(z)}{(z-1)^2}dz$$
 
 **Problem 6:**
 
-Suppose that $$f(z)$$ is analytic on a domain $$D$$ containing the disk $$|z-z_0|\leq r$$.
-Use Cauchy's integral formula to prove that $$f(z_0)$$ is equal to the average value of $$f(z)$$ on the circle $$|z-z_0| = r$$.
+Suppose that $$f(z)$$ is analytic on a domain $$D$$ containing the disk $$\lvert z-z_0\rvert\leq r$$.
+Use Cauchy's integral formula to prove that $$f(z_0)$$ is equal to the average value of $$f(z)$$ on the circle $$\lvert z-z_0\rvert = r$$.
 
