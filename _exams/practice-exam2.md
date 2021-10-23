@@ -32,7 +32,7 @@ Prove that if a sequence of functions $$f_n(z)$$ converges to $$f(z)$$ uniformly
 
 **Problem 4:**
 
-Suppose that $$f(z)$$ is an entire function and that $$f(z)/z^n$$ is bounded for $$\lvert z\rvert >2021$$.  Prove that $$f(z)$ is a polynomial of degree at most $$n$$.
+Suppose that $$f(z)$$ is an entire function and that $$f(z)/z^n$$ is bounded for $$\lvert z\rvert >2021$$.  Prove that $$f(z)$$ is a polynomial of degree at most $$n$$.
 
 **Problem 5:**
 
