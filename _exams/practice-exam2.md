@@ -41,7 +41,7 @@ Calculate the following values and carefully justify your work.  If you use any 
 * (A) $$\int_{\Gamma} xydy$$ where $$\Gamma$$ is the boundary of the square with vertices $$(0,0)$$, $$(0,1)$$, $$(1,0)$$, and $$(1,1)$$
 * (B) $$\oint_{\lvert z\rvert =1} \frac{1}{z^3}dz.$$
 * (C) $$\int_{\Gamma} \cos(z)dz$$ where $$\Gamma$$ is the path from $$(-\pi,0)$$ to $$(\pi,0)$$ along the curve $$y=\sin(x)$$
-* (D) $$\oint_{\lvert z-1-i\rvert = 5/4} \frac{\Log(z)}{(z-1)^2}dz$$
+* (D) $$\oint_{\lvert z-1-i\rvert = 5/4} \frac{\text{Log}(z)}{(z-1)^2}dz$$
 
 **Problem 6:**
 
