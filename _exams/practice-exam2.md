@@ -28,7 +28,7 @@ Give an example of each of the following, or else explain why no example exists
 
 **Problem 3:**
 
-Prove that if a sequence of functions $$f_n(z)$$ converges to $$f(z)$$ uniformly, then $$f(z)$$ is analytic.
+Prove that if a sequence of functions $$f_n(z)$$ analytic on $$D$$ converges to $$f(z)$$ uniformly on $$D$$, then $$f(z)$$ is analytic on $$D$$.
 
 **Problem 4:**
 
