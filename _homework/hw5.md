@@ -32,7 +32,7 @@ Find the radius of convergence of the power series of the following functions ex
 
 **Problem 3:**
 
-Suppose that $$f(z)=\sum_{k=0}^\infty a_k z^k$$ is analytic for $$\lvert z\rvert | < R$$ and that $$f(z)$$ extends meromorphically to  $$\lvert z\rvert | < R$$ with a single pole at some value $$z_0$$ with $$\lvert z_0\rvert = R$$.  Show that $$a_k/a_{k+1}\rightarrow z_0$$ as $$k\rightarrow\infty$$.
+Suppose that $$f(z)=\sum_{k=0}^\infty a_k z^k$$ is analytic for $$\lvert z\rvert \rvert < R$$ and that $$f(z)$$ extends meromorphically to  $$\lvert z\rvert < R$$ with a single pole at some value $$z_0$$ with $$\lvert z_0\rvert = R$$.  Show that $$a_k/a_{k+1}\rightarrow z_0$$ as $$k\rightarrow\infty$$.
 
 **Problem 4:**
 For each of the following functions, determine the principal part of the function at each of the poles (including possibly $$\infty$$).
