@@ -45,7 +45,7 @@ How many roots does the polynomial
 
 $$z^9 + z^5 - 8z^3 + 2z + 1$$
 
-have between the circles $$|z| = 1$$ and $$|z| = 2$$?
+have between the circles $$\lvert z\rvert = 1$$ and $$\lvert z\rvert = 2$$?
 
 **Problem 6:**
 
