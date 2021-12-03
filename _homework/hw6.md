@@ -35,9 +35,10 @@ $$\int_{-\pi}^\pi \frac{1-r^2}{1-2r\cos\theta + r^2}\frac{d\theta}{2\pi} = 1,\ \
 
 **Problem 4:**
 
-For fixed $$m\geq 2$$, show by integrating aroudn the a keyhole (ie. pacman) contour that
+For fixed $$m\geq 2$$, show by integrating around the a keyhole (ie. pacman) contour that
 
 $$\int_0^\infty \frac{x^{-a}}{(1+x)^m}dx = \frac{\pi a(a+1)\dots(a+m-2)}{(m-1)!\sin(\pi a)},\ \ 1-m < a< 1.$$ 
+
 
 **Problem 5:**
 
