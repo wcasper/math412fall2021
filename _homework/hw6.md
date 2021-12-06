@@ -50,7 +50,7 @@ have between the circles $$\lvert z\rvert = 1$$ and $$\lvert z\rvert = 2$$?
 
 **Problem 6:**
 
-Let $a\in\mathbb R$.
+Let $$a\in\mathbb R$$.
 How many zeros does the polynomial
 
 $$z^4 + z^3 + 4z^2 + az + 3$$
