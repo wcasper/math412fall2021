@@ -58,7 +58,7 @@ $$z^4 + z^3 + 4z^2 + az + 3$$
 have in the left half of the complex plane? (Your answer will depend on $$a$$).
 
 
-**Problem 6:**
+**Problem 7:**
 
 It turns out that there is a very interesting relationship between the roots of a polynomial $$p(z)$$ and the roots of it's derivative $$p'(z)$$.
 Specifically, if plot the roots of $$p(z)$$ as points in the complex plane, then they will form the vertices of a convex polygon, sometimes called the **convex hull** of the roots.  It turns out that the roots of $$p'(z)$$ must lie inside or on the boundary of this polygon!
