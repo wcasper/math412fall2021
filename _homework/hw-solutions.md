@@ -10,3 +10,5 @@ permalink: /homework/hw-solutions
 * [Homework 2 solutions](hw2-solutions.pdf)
 * [Homework 3 solutions](hw3-solutions.pdf)
 * [Homework 4 solutions](hw4-solutions.pdf)
+* [Homework 5 solutions](hw5-solutions.pdf)
+* [Homework 6 solutions](hw6-solutions.pdf)
