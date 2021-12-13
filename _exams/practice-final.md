@@ -30,15 +30,15 @@ Show that $$f(z)$$ must be constant.
 
 Calculate the value of the integral
 
-$$\oint_0^{2\pi} \frac{\cos(x)}{\cos(x) + a} dx$$
+$$\oint_0^{2\pi} \frac{\cos(x)}{\cos(x) + a} dx,\ \ a>1$$
 
 **Problem 5:**
 
 Calculate the following residues
 
-* (A) $$\text{Res}[1/(1+x^2),i]$$
-* (B) $$\text{Res}[e^{2x}/(x-1)^2,1]$$
-* (B) $$\text{Res}[e^{3/x}x^3,0]$$
+* (A) $$\text{Res}[1/(1+z^2),i]$$
+* (B) $$\text{Res}[e^{2z}/(z-1)^2,1]$$
+* (B) $$\text{Res}[e^{3/z}z^3,0]$$
 
 **Problem 6:**
 
@@ -53,7 +53,7 @@ Suppose that $$u(x,y)$$ and $$v(x,y)$$ are harmonic functions on $$D$$ which are
 
 **Problem 8:** 
 
-Find the Laurent series expansion of the function  $$f(x) = \frac{1}{z(z-1)(z-2)}$$ in the indicated regions
+Find the Laurent series expansion of the function  $$f(z) = \frac{1}{z(z-1)(z-2)}$$ in the indicated regions
 
 * (A) $$0 < |z| < 1$$
 * (B) $$1 < |z| < 2$$
