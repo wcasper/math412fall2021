@@ -30,7 +30,7 @@ Show that $$f(z)$$ must be constant.
 
 Calculate the value of the integral
 
-$$\oint_0^{2\pi} \frac{\cos(x)}{\cos(x) + a} dx,\ \ a>1$$
+$$\int_0^{2\pi} \frac{\cos(x)}{\cos(x) + a} dx,\ \ a>1$$
 
 **Problem 5:**
 
