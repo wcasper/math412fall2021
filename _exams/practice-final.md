@@ -55,9 +55,9 @@ Suppose that $$u(x,y)$$ and $$v(x,y)$$ are harmonic functions on $$D$$ which are
 
 Find the Laurent series expansion of the function  $$f(z) = \frac{1}{z(z-1)(z-2)}$$ in the indicated regions
 
-* (A) $$0 < |z| < 1$$
-* (B) $$1 < |z| < 2$$
-* (C) $$2 < |z| $$
+* (A) $$0 < \lvert z\rvert < 1$$
+* (B) $$1 < \lvert z\rvert < 2$$
+* (C) $$2 < \lvert z\rvert $$
 
 **Problem 9:**
 
